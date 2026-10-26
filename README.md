@@ -160,7 +160,7 @@ Every module is self-contained with Jupyter notebooks, real-world projects, and 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Suraj-G-Rao/Complete-Agentic-AI-Bootcamp.git
+git clone https://github.com/AnkitRajTiwari/Agentic-Ai-Production-Topics.git
 cd Complete-Agentic-AI-Bootcamp
 ```
 
@@ -198,7 +198,6 @@ LANGCHAIN_TRACING_V2=true
 LANGCHAIN_PROJECT=your_project_name
 ```
 
-> ⚠️ **Never commit your `.env` file!** It's already covered by `.gitignore`.
 
 ### 5. Start Learning!
 
@@ -255,12 +254,3 @@ Contributions, bug fixes, and improvements are welcome!
 
 ---
 
-## 📜 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
-
-<p align="center">
-  Made with ❤️ for the AI community &nbsp;•&nbsp; Happy Learning! 🚀
-</p>
